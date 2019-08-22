@@ -1,2 +1,2 @@
 # lnkexecutor
-Run windows shortcuts from an exe
+Run cmd commands from an exe, passing the command as an execution argument.
